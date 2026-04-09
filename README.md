@@ -1,126 +1,137 @@
-<!-- 🔥 PREMIUM HEADER -->
+<!-- HEADER (Animated Intro) -->
 
-<h1 align="center">Vardhan Rangineni</h1>
-
-<p align="center">
-  <b>🚀 Backend Engineer | Java & Spring Boot | AI Systems Builder</b>
-</p>
+<h1 align="center">Hi 👋, I'm Vardhan Rangineni</h1>
+<h3 align="center">🚀 Java Backend Developer | AI/ML Enthusiast | Building Real-World Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3200&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+Developer;AI+Powered+Applications;Turning+Ideas+into+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;AI+Powered+Application+Builder;System+Design+Enthusiast;Always+Learning+%26+Building" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
 ```yaml
 name: Vardhan Rangineni
-role: Backend Developer
-education: B.Tech IT (2025)
-experience: Intern @ MedPlus
-specialization: Scalable Backend Systems + AI Integration
+education: B.Tech in Information Technology (2025)
+current_role: Intern @ MedPlus
+focus: Backend Development + AI Systems
+interests:
+  - Scalable Systems
+  - Clean Architecture
+  - Real-world Problem Solving
+learning_now:
+  - Spring Framework (Advanced)
+  - React (Frontend Integration)
+  - System Design
 ```
-
-💡 I focus on building **real-world systems**, not just projects.
-⚡ Strong interest in **architecture, performance, and scalability**.
-🤖 Exploring how **AI integrates into everyday applications**.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,mysql,git,github,aws,vscode&perline=5" />
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,spring,react,mysql,git,github,aws,vscode&perline=5" />
+
 </p>
 
 ---
 
-## 🏗️ What I’ve Built
+## 🏗️ Featured Projects
 
-### 🔥 Library Management System (Enterprise Style)
+### 🔥 Library Management System (Enterprise Level Design)
 
-* Clean Architecture → Controller → Service → DAO
-* JavaFX + MySQL
-* Features:
+* 🧱 Architecture: Controller → Service → DAO
+* 🛠️ Tech: JavaFX, MySQL, JDBC
+* ⚡ Features:
 
-  * Book Issue / Return
-  * Overdue Tracking
+  * Issue/Return Workflow
   * Stream-based Reports
-* 💡 Focus: **Structured backend design**
+  * Overdue Tracking
+  * Category Analytics
 
 ---
 
 ### 🤖 AI Powered Shopping Assistant
 
-* Apriori Algorithm + AWS + Chatbot
-* Generates:
+* 🧠 Apriori Algorithm + AWS + Chatbot
+* ☁️ Dataset stored in AWS S3
+* 💡 Smart recommendations:
 
-  * Smart shopping lists
-  * Recipe suggestions
-  * Personalized recommendations
-* 💡 Focus: **AI + Backend integration**
+  * Grocery Lists
+  * Recipes
+  * Personalized Suggestions
 
 ---
 
 ### 👁️ Facial Recognition Attendance System
 
-* Python + OpenCV + ML
-* Real-time detection & attendance tracking
-* 💡 Focus: **Automation using ML**
+* 🧪 Tech: Python, OpenCV, Machine Learning
+* 🎯 Detects & marks attendance automatically
+* 📸 Real-time face detection
 
 ---
 
-### 📊 Employee Productivity Analytics
+### 📊 Employee Productivity Analytics System
 
-* Java Streams + Excel Processing
-* Generates actionable insights
-* 💡 Focus: **Data-driven backend logic**
+* ⚙️ Java + Streams + Excel Processing
+* 📈 Insights:
+
+  * Productivity tracking
+  * Work pattern analysis
 
 ---
 
-## 📊 GitHub Signals
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VardhanRangineni&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=VardhanRangineni&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VardhanRangineni&show_icons=true&theme=radical&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=VardhanRangineni&theme=radical&border_radius=10" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanRangineni&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanRangineni&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🧬 Contribution Graph
 
-* 🔥 Mastering Spring & Backend Architecture
-* ⚡ Building production-ready applications
-* 🧠 Learning System Design deeply
-* 🌐 Improving frontend integration (React)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VardhanRangineni&theme=react-dark" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VardhanRangineni&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-VardhanRangineni-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOURMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## ⚡ Developer Loop
+## ⚡ Developer Mindset
 
 ```java
 while(true) {
     learn();
     build();
-    ship();
+    improve();
 }
 ```
 
@@ -128,8 +139,8 @@ while(true) {
 
 ## 🧩 Philosophy
 
-> "Great developers don’t just write code — they design systems that scale."
+> "I don't just write code — I design systems that solve real-world problems and scale."
 
 ---
 
-⭐ If you find my work interesting, feel free to explore and star my repositories!
+⭐ If you like my work, consider giving a star to my repositories!
