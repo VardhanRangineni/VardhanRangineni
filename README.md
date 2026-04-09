@@ -1,100 +1,135 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00F7FF&height=200&section=header&text=Vardhan%20Rangineni&fontSize=80&animation=twinkling&fontAlignY=35" width="100%" />
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR-LINK">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:YOURMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://your-portfolio.com">
-      <img src="https://img.shields.io/badge/-Portfolio-00F7FF?style=for-the-badge&logo=react&logoColor=black" />
-    </a>
-  </p>
-</div>
+<!-- 🔥 PREMIUM HEADER -->
 
----
+<h1 align="center">Vardhan Rangineni</h1>
 
-## ⚡ Executive Summary
-> **Backend Engineer | Software Intern @ Optival Health (MedPlus)** > Specialized in building high-availability systems with **Java Spring Boot**. Currently focused on migrating legacy JSP architectures into modern, reactive microservices. I bridge the gap between **System Design** and **AI Integration**.
-
----
-
-## 🛠️ Engineering Stack
-
-### 🟦 Backend Core & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,docker,aws,githubactions&theme=dark" />
+<p align="center">
+  <b>🚀 Backend Engineer | Java & Spring Boot | AI Systems Builder</b>
 </p>
 
-### 🟨 Frontend & Scripting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,python,html,css,tailwind,postman&theme=dark" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3200&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+Developer;AI+Powered+Applications;Turning+Ideas+into+Real+Products" />
 </p>
 
 ---
 
-## 🏗️ Major System Architectures
+## 🧠 Who Am I?
 
-### 🔗 Enterprise Library Ecosystem (Migrated)
-* **The Challenge:** Refactoring a monolithic JSP/Servlet system to a modern stack.
-* **The Solution:** Implemented a **RESTful API** using **Spring Security** and **React**.
-* **Key Achievement:** Reduced query latency by 40% using optimized JDBC DAO patterns.
-* `Java` `Spring Boot` `React` `MySQL`
+```yaml
+name: Vardhan Rangineni
+role: Backend Developer
+education: B.Tech IT (2025)
+experience: Intern @ MedPlus
+specialization: Scalable Backend Systems + AI Integration
+```
 
-### 🤖 AI Cognitive Shopping Assistant
-* **Intelligence:** Integrated the **Apriori Algorithm** for real-time association rule learning.
-* **Infrastructure:** Scaled using **AWS S3** for large-scale dataset storage.
-* **Outcome:** Automated grocery/recipe suggestions based on user behavior clusters.
-* `Python` `Machine Learning` `AWS` `Cloud Storage`
-
----
-
-## 📈 Activity & System Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=VardhanRangineni&show_icons=true&theme=transparent&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&border_color=00F7FF&hide_border=false" width="400px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanRangineni&layout=compact&theme=transparent&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&border_color=00F7FF&hide_border=false" width="350px"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🧬 Contribution Flow
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VardhanRangineni/VardhanRangineni/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VardhanRangineni/VardhanRangineni/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VardhanRangineni/VardhanRangineni/output/github-contribution-grid-snake.svg">
-</picture>
+💡 I focus on building **real-world systems**, not just projects.
+⚡ Strong interest in **architecture, performance, and scalability**.
+🤖 Exploring how **AI integrates into everyday applications**.
 
 ---
 
-## 🔮 Roadmap
-* 🔭 **Currently:** Deep diving into Advanced System Design & Distributed Systems.
-* 🎓 **Planning:** Pursuing **MSc in Management** at the **University of Edinburgh**.
-* 🏗️ **Building:** A collaborative fitness ecosystem with real-time zone claiming.
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,mysql,git,github,aws,vscode&perline=5" />
+</p>
 
 ---
 
-## ⚙️ Logic Terminal
+## 🏗️ What I’ve Built
+
+### 🔥 Library Management System (Enterprise Style)
+
+* Clean Architecture → Controller → Service → DAO
+* JavaFX + MySQL
+* Features:
+
+  * Book Issue / Return
+  * Overdue Tracking
+  * Stream-based Reports
+* 💡 Focus: **Structured backend design**
+
+---
+
+### 🤖 AI Powered Shopping Assistant
+
+* Apriori Algorithm + AWS + Chatbot
+* Generates:
+
+  * Smart shopping lists
+  * Recipe suggestions
+  * Personalized recommendations
+* 💡 Focus: **AI + Backend integration**
+
+---
+
+### 👁️ Facial Recognition Attendance System
+
+* Python + OpenCV + ML
+* Real-time detection & attendance tracking
+* 💡 Focus: **Automation using ML**
+
+---
+
+### 📊 Employee Productivity Analytics
+
+* Java Streams + Excel Processing
+* Generates actionable insights
+* 💡 Focus: **Data-driven backend logic**
+
+---
+
+## 📊 GitHub Signals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VardhanRangineni&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=VardhanRangineni&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanRangineni&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🔥 Mastering Spring & Backend Architecture
+* ⚡ Building production-ready applications
+* 🧠 Learning System Design deeply
+* 🌐 Improving frontend integration (React)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-VardhanRangineni-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Developer Loop
+
 ```java
-public class CoreIdentity {
-    public static void main(String[] args) {
-        Developer vardhan = new Developer();
-        vardhan.addSkill("Scalability");
-        vardhan.setPassion("Solving Real-world Problems");
-        
-        while(true) {
-            vardhan.build();
-            vardhan.optimize();
-            // Future goal: Startup Founder
-            if (vardhan.isReady()) vardhan.launchBusiness(); 
-        }
-    }
+while(true) {
+    learn();
+    build();
+    ship();
 }
+```
+
+---
+
+## 🧩 Philosophy
+
+> "Great developers don’t just write code — they design systems that scale."
+
+---
+
+⭐ If you find my work interesting, feel free to explore and star my repositories!
