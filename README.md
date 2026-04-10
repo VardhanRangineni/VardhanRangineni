@@ -161,12 +161,6 @@ while(true) {
 
 ---
 
-## 🐍 Contribution Snake (Optional Setup)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VardhanRangineni/VardhanRangineni/output/snake.svg" />
-</p>
-
 <p align="center">⭐ If you like my work, explore my repositories and connect!</p>
 
 <!-- ========================= END ========================= -->
