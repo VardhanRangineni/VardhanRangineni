@@ -1,151 +1,106 @@
-<!-- ========================= GOD LEVEL README ========================= -->
-
-<h1 align="center">Vardhan Rangineni</h1>
+# Vardhan Rangineni
 
 <p align="center">
-  <b>🚀 Trainee Software Engineer @ MedPlus | Java Backend Engineer | Building Scalable Systems</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=950&lines=Java+Backend+Engineer;Spring+Boot+Developer;Production+Ready+Systems;Clean+Architecture+Advocate;AI+Powered+Applications;Future+System+Designer" />
-</p>
-
----
-
-## 🧠 About Me
-
-```yaml
-name: Vardhan Rangineni
-role: Trainee Software Engineer
-company: MedPlus
-education: B.Tech Information Technology (2025)
-specialization: Backend Engineering + Scalable Systems + AI Integration
-```
-
-💡 I build production-ready backend systems with clean architecture and strong engineering principles.  
-⚡ Focused on performance, scalability, and maintainability.  
-🤖 Passionate about AI-powered real-world applications.
-
----
-
-## 🏢 Experience
-
-**💼 MedPlus — Trainee Software Engineer**
-- Working on real-world production systems
-- Building backend services using Java & scalable design principles
-- Writing clean, maintainable, and structured code
-- Learning and applying industry-level system design
-
-💡 Transitioning from learning → building → engineering
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,mysql,git,github,aws,vscode,html,css&perline=6" />
-</p>
-
----
-
-## 🧠 Engineering Strength
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Architecture-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-1d4ed8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Design-15803d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Code-b91c1c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scalability-f59e0b?style=for-the-badge" />
-</p>
-
----
-
-## 🏗️ Projects
-
-### 🔥 Library Management System
-Designed using Controller → Service → DAO architecture  
-Built with Java + MySQL  
-
-**Features:**
-- Book Issue / Return
-- Overdue Tracking
-- Reports using Java Streams  
-
-**Focus:** Clean architecture & structured backend design
-
----
-
-### 🤖 AI Powered Shopping Assistant
-Built using Apriori Algorithm + AWS + Chatbot  
-
-**Generates:**
-- Smart shopping lists
-- Personalized recommendations
-- Recipe suggestions  
-
-**Focus:** AI + backend integration
-
----
-
-### 👁️ Facial Recognition Attendance System
-Built with Python + OpenCV + ML  
-Real-time face detection & attendance automation  
-
-**Focus:** Intelligent automation
-
----
-
-### 📊 Employee Productivity Analytics
-Processed data using Java Streams + Excel  
-Generated actionable insights  
-
-**Focus:** Data-driven backend logic
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VardhanRangineni&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=VardhanRangineni&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanRangineni&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🔥 Mastering Spring Boot & Backend Engineering
-- ⚡ Building production-ready systems
-- 🧠 Deep diving into System Design
-- 🌐 Improving React integration
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Vardhan%20Rangineni-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:YOURMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
   <a href="https://github.com/VardhanRangineni">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+    <img src="https://komarev.com/ghpvc/?username=VardhanRangineni&label=Profile%20Views&color=0e7490&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/VardhanRangineni?tab=followers">
+    <img src="https://img.shields.io/github/followers/VardhanRangineni?label=Followers&style=for-the-badge&color=0f766e" alt="GitHub followers" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=Trainee+Software+Engineer+at+MedPlus;Java+Backend+Engineer;Spring+Boot+%7C+System+Design+%7C+Scalable+APIs;Building+Clean%2C+Production+Ready+Systems" alt="Typing intro" />
+</p>
 
-## ⚡ Developer Loop
+## About Me
+
+I am a backend-focused engineer who loves turning ideas into reliable products.
+
+- Role: Trainee Software Engineer at MedPlus
+- Education: B.Tech in Information Technology (2025)
+- Core strengths: Java, Spring Boot, API design, database modeling
+- Mindset: Clean architecture, performance, and maintainability first
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,mysql,git,github,aws,vscode,html,css&perline=6" alt="Tech stack icons" />
+</p>
+
+## Impact Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Architecture-0f172a?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/System_Design-0369a1?style=for-the-badge&logo=bookstack&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/REST_APIs-0f766e?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Database_Design-166534?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Clean_Code-b91c1c?style=for-the-badge&logo=codacy&logoColor=white" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Scalable_Systems-92400e?style=for-the-badge&logo=icloud&logoColor=white" alt="Scalable Systems" />
+</p>
+
+## Featured Projects
+
+### Library Management System
+- Built with Java and MySQL using Controller -> Service -> DAO architecture
+- Implemented issue/return workflow, overdue tracking, and stream-based reporting
+- Focus: structured backend design and maintainable code
+
+### AI Powered Shopping Assistant
+- Built recommendation logic with Apriori algorithm and chatbot flow
+- Added smart shopping list generation and personalized suggestions
+- Focus: AI + backend integration for practical usage
+
+### Facial Recognition Attendance System
+- Built with Python, OpenCV, and machine learning workflow
+- Automated attendance through real-time face recognition
+- Focus: intelligent automation and applied ML
+
+### Employee Productivity Analytics
+- Processed data using Java Streams and Excel pipelines
+- Generated actionable insights for productivity tracking
+- Focus: data-driven backend analytics
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VardhanRangineni&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=VardhanRangineni&theme=transparent&hide_border=true" height="165" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanRangineni&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+## Current Focus
+
+- Building production-ready Spring Boot services
+- Improving system design and backend scalability patterns
+- Writing cleaner, testable, and maintainable code
+- Integrating AI capabilities into real-world workflows
+
+## Contact Me
+
+If you are hiring, collaborating, or building something interesting, I would love to connect.
+
+<p align="center">
+  <a href="https://github.com/VardhanRangineni">
+    <img src="https://img.shields.io/badge/GitHub-VardhanRangineni-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/vardhan-rangineni/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vardhan_Rangineni-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:vardhanrangineni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email contact" />
+  </a>
+</p>
+
+## Engineering Philosophy
+
+> Build systems that are easy to understand, easy to scale, and hard to break.
 
 ```java
-while(true) {
+while (true) {
     learn();
     build();
     improve();
@@ -155,12 +110,4 @@ while(true) {
 
 ---
 
-## 🧩 Philosophy
-
-> "Code is temporary. Systems are long-lasting. Build systems."
-
----
-
-<p align="center">⭐ If you like my work, explore my repositories and connect!</p>
-
-<!-- ========================= END ========================= -->
+If my work aligns with your team goals, send me a message. I respond quickly.
