@@ -86,9 +86,13 @@ If you are hiring, collaborating, or building something interesting, I would lov
   <a href="https://www.linkedin.com/in/vardhan-rangineni-8488921bb">
     <img src="https://img.shields.io/badge/LinkedIn-Vardhan_Rangineni-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
   </a>
-  <a href="mailto:ranginenivardhan@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ranginenivardhan@gmail.com&su=Opportunity%20to%20Connect">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email contact" />
   </a>
+</p>
+
+<p align="center">
+  Direct email: <a href="mailto:ranginenivardhan@gmail.com?subject=Opportunity%20to%20Connect">ranginenivardhan@gmail.com</a>
 </p>
 
 ## Engineering Philosophy
