@@ -64,12 +64,12 @@ I am a backend-focused engineer who loves turning ideas into reliable products.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VardhanRangineni&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VardhanRangineni&theme=github_dark" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=VardhanRangineni&theme=transparent&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanRangineni&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VardhanRangineni&theme=github_dark" alt="Top languages" />
 </p>
 
 ## Current Focus
