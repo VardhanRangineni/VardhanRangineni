@@ -68,10 +68,6 @@ I am a backend-focused engineer who loves turning ideas into reliable products.
   <img src="https://streak-stats.demolab.com?user=VardhanRangineni&theme=transparent&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VardhanRangineni&theme=github_dark" alt="Top languages" />
-</p>
-
 ## Current Focus
 
 - Building production-ready Spring Boot services
@@ -87,10 +83,10 @@ If you are hiring, collaborating, or building something interesting, I would lov
   <a href="https://github.com/VardhanRangineni">
     <img src="https://img.shields.io/badge/GitHub-VardhanRangineni-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/in/vardhan-rangineni/">
+  <a href="https://www.linkedin.com/in/vardhan-rangineni-8488921bb">
     <img src="https://img.shields.io/badge/LinkedIn-Vardhan_Rangineni-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
   </a>
-  <a href="mailto:vardhanrangineni@gmail.com">
+  <a href="mailto:ranginenivardhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email contact" />
   </a>
 </p>
